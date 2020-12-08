@@ -1,6 +1,6 @@
 # Beyond Accuracy: Grounding Evaluation Metrics for Human-Machine Learning Systems
 
-### Fernando Diaz, Brian St. Thomas, Praveen Chandar - Presented at  [NeurIPS2020](https://nips.cc/virtual/2020/public/e_tutorials.html)
+ Presented at  [NeurIPS2020](https://nips.cc/virtual/2020/public/e_tutorials.html) by Fernando Diaz, Brian St. Thomas, Praveen Chandar. 
  
 
 -----
@@ -22,5 +22,5 @@ research into optimizing for these more structured metrics.
 
 - Part 1: [Introduction](./neurips_2020/intro.pdf)
 - Part 2: [Offline Metrics](./neurips_2020/offline_metrics.pdf)
-- Part 3: [Behavioral Metrics](./neurips_2020/online_metrics.pdf) 
+- Part 3: [Behavior-based Metrics](./neurips_2020/online_metrics.pdf) 
 - Part 4: [Multiple Metrics](./neurips_2020/multiple_metrics.pdf) 
