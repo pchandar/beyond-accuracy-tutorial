@@ -17,6 +17,16 @@ system and they respond to system decisions. The goal of this tutorial is both t
 share methods for designing user-based quantitative metrics and to motivate new
 research into optimizing for these more structured metrics.
 
+## Citation
+```
+@inproceedings{diaz:neurips-2020-tutorial,
+	author = {Praveen Chandar and Fernando Diaz and Brian {St. Thomas}},
+	booktitle = {Advances in Neural Information Processing Systems},
+	title = {Beyond Accuracy: Grounding Evaluation Metrics for Human-Machine Learning Systems},
+	year = {2020},
+        howpublished = "\url{https://github.com/pchandar/beyond-accuracy-tutorial}",
+}
+```
 
 # Slides
 
