@@ -20,7 +20,7 @@ research into optimizing for these more structured metrics.
 ## Citation
 ```
 
-@inproceedings{diaz:neurips-2020-tutorial,
+@inproceedings{neurips-2020-tutorial:beyond-accuracy,
 	author = {Praveen Chandar and Fernando Diaz and Brian {St. Thomas}},
 	booktitle = {Advances in Neural Information Processing Systems},
 	howpublished = {\url{https://github.com/pchandar/beyond-accuracy-tutorial}},
